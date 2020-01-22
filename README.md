@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lab, we will learn how to manipulate strings. There are two challenges: 1) to practice how to manipulate strings, and 2) to use string manipulation techniques to create Bag of Words (BoW). BoW is an essential technique in Natural Language Processing.
+  In this lab, we will learn how to manipulate strings. There are two challenges: 1) to practice how to manipulate strings, and 2) to use string manipulation techniques to create Bag of Words (BoW). BoW is an essential technique in Natural Language Processing.
 
 ### Getting Started
 
