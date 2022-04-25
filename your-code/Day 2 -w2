@@ -1,0 +1,4 @@
+ood_list = ['Bananas', 'Chocolate', 'bread', 'diapers', 'Ice Cream', 'Brownie Mix', 'broccoli']
+
+food_list.split()
+
