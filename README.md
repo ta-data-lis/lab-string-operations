@@ -1,5 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
+
 # Lab | String Operations and Bag of Words
 
 ## Introduction
